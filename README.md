@@ -1,11 +1,6 @@
 # Web Application Penetration Testing Methodology
 ## Professional Step-by-Step Guide
 
-**Author:** Security Research Team  
-**Version:** 2.0  
-**Last Updated:** 2025  
-**Classification:** ACTIONABLE METHODOLOGY
-
 ---
 
 ## CRITICAL REMINDERS
