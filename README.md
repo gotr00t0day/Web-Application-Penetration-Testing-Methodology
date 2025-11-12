@@ -1,5 +1,4 @@
 # Web Application Penetration Testing Methodology
-## Professional Step-by-Step Guide
 
 ## CRITICAL REMINDERS
 
